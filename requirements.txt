@@ -4,4 +4,4 @@ seaborn
 matplotlib
 urlextract
 pandas
-emoji
+emoji==1.7
