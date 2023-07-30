@@ -4,7 +4,7 @@ such as to get insights on product review or opinions of a group of people over 
 Intensity Analyzer library of nltk.sentiment.vader module which assigns sentiment labels on polarity score.
 
 You just have to perform the following task in order to get analysis.
-- Export whatsapp chat (12 hour format).
+- Export whatsapp chat by making   changes in time format in the code(12 hour format as well as 24 hour format).
 - Browse the file.
 - Click Show Analysis
 
